@@ -8095,7 +8095,7 @@ div.latest-item .hover-shape-bg {
 }
 
 .staking_flip_card {
-  background-color: transparent;
+  /* background-color: transparent; */
   width: 100%;
   min-height: 580px;
   height: 100%;
