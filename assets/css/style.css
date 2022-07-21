@@ -8335,6 +8335,7 @@ div.latest-item .hover-shape-bg {
   height: 100%;
   width: 100%;
   position: relative;
+  z-index: 999;
 }
 
 .staking_flip_card_back_overlay {
